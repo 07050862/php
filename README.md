@@ -5,8 +5,4 @@
 </div>
 
 
-<div align="center">
-    <iframe width="620" height="315"
-        src="https://www.youtube.com/watch?v=tJej5MgUh1E">
-    </iframe>
-</div>
+[![Watch the video](https://img.youtube.com/vi/tJej5MgUh1E/0.jpg)](https://www.youtube.com/watch?v=tJej5MgUh1E)
